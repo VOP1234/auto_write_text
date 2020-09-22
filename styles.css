@@ -3,6 +3,10 @@
 }
 
 body {
+  background-color: #000080;
+  color           : #fff;
+  font-size       : 2rem;
+
   display        : flex;
   align-items    : center;
   justify-content: center;

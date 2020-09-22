@@ -1,4 +1,4 @@
-const text = "My family is the best in the world. :-)"
+const text = "My family is the best in the world. :-)  "
 
 let index = 0
 
@@ -7,7 +7,7 @@ function writeText() {
 
   index++
 
-  if (index > text.length - 1) {
+  if (index > text.length) {
     index = 0
   }
 }
